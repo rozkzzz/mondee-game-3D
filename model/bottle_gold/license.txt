@@ -1,0 +1,8 @@
+Model Information:
+* title:	Bottle
+* source:	https://sketchfab.com/3d-models/bottle-f06024f0949b4f78afd60b879fee9de9
+* author:	KoL (https://sketchfab.com/kolan022)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

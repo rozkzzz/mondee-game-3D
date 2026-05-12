@@ -1,0 +1,8 @@
+Model Information:
+* title:	Skull
+* source:	https://sketchfab.com/3d-models/skull-c1c8630e0ae84fa19ede315677677997
+* author:	Arrangemonk (https://sketchfab.com/Arrangemonk9000)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
